@@ -1,5 +1,4 @@
 import axios from "axios";
-
 jest.mock("axios");
 
 describe("API Test: Photos", () => {
